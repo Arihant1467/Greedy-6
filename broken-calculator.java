@@ -4,8 +4,8 @@ https://leetcode.com/problems/broken-calculator/
 
 Did it run on leetcode: Yes
 Did you face any problem: Either go backwards or forward
-Time Complexity: 0(Y)
-Space Complexity: 0(Y)
+Time Complexity: 0(log(Y))
+Space Complexity: 0(1)
 
 
 Algorithm:
